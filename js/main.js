@@ -30,13 +30,6 @@ $(document).ready(function(){
         });
 
     }
-		/*
-		$('footer .copyright').click(function(e) {
-		event.preventDefault();
-		var url = $(this).data('target');
-		location.replace(url);
-		});
-		*/
     function cursorAnimate(elem){
         var cursor,
             cursorInterval = 0,
