@@ -7,5 +7,3 @@ My Portfolio at www.mikejakobsen.com
 A open source site, I've been working on for a while now.
 
 Trying out old school object oriented javascript.
-
-##Looking for an internship August-December 2016
